@@ -15,8 +15,8 @@ header img{
 .card {
     background-color: #D9D9D9;
     height: 10%;
-    width: 80%;
-    display: inline-flex;
+    width: 90%;
+    display: list-item;
     border: 1px solid #D9D9D9;
     border-radius: 8px;
     overflow: hidden;
