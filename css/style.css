@@ -30,6 +30,7 @@ header p {
 
 h2{
     color: #333;
+    margin-left: 6%;
 }
 
 .card-container{
@@ -46,10 +47,11 @@ h2{
     border: 1px solid #D9D9D9;
     border-radius: 8px;
     overflow: hidden;
-    max-width: 500px;
     box-shadow: 0 4px 6px #000;
     transition: transform 0.2s;
-    margin: 10px;
+    margin-bottom: 10px;
+    margin-left: 5%:
+    margin-right:5%:
 }
 
 .card:hover {
