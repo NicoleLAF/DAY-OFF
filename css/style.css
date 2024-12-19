@@ -10,7 +10,7 @@ body{
 header {
     background-color: darkred;
     padding: 20px 10px;
-    height: 15%;
+    height: 5%;
     display: flex;
     flex-wrap: wrap;
 }
@@ -55,7 +55,6 @@ header p {
     transition: background-color 0.3s, color 0.3s;
 }
 
-.menu a:hover,
 .menu a.active {
     background-color: #555;
     color: whitesmoke;
