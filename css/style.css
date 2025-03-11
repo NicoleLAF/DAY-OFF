@@ -114,12 +114,8 @@ h2{
     font-size: 1rem;
 }
 
-.card-description:nth-child(even) {
-    color: #350303;
-}
-
-.card-description:nth-child(odd) {
-    color: #8B0000;
+.card-description {
+    color: Black
 }
 
 section {
